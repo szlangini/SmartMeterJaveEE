@@ -1,0 +1,52 @@
+package de.tub.as.smm.models;
+
+import java.io.Serializable;
+import java.util.List;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.OneToMany;
+
+@Entity
+public class Zaehler implements Serializable {
+    private static final long serialVersionUID = 1L;
+ 
+    // Persistent Fields:
+    @Id @GeneratedValue
+    Long id;
+    String name;
+    Float ampereValue;
+    Float voltValue;
+    List<Ablesung> ablesungen;
+    
+    // Constructors:
+    public Zaehler() {
+    }
+ 
+    public Zaehler(String name,List<Ablesung> ablesungen){
+        this.name = name;
+        this.ablesungen = ablesungen;
+    }
+ 
+    @OneToMany(mappedBy="ablesungen")
+    public List<Ablesung> getAblesungen() {return this.ablesungen;}
+    
+    public void setAblesungen(List<Ablesung> ablesungen){ablesungen = this.ablesungen;}
+ 
+
+    @Column(name="Name")
+    public String getName(){return this.name;}
+    public void setName(String name) {this.name = name;}   
+
+    @Column(name="id")
+	public String getId(){return this.id;}
+	public void setId(String id) {this.id = id;}
+
+
+    // String Representation:
+    @Override
+    public String toString() {
+        return name + "hat folgende Werte: Stromstärke in Ampere (" + ampereValue + ") Spannung in Volt (" + voltValue + ")";
+    }
+}

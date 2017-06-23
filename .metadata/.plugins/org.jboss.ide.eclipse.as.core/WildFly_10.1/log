@@ -1,0 +1,50 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-13 16:03:42.542
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-13 16:03:45.701
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-13 16:07:19.786
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-13 16:07:23.483
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-13 16:07:26.243
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-13 16:07:50.158
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-13 16:08:00.338
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-13 16:08:02.975
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-13 16:08:02.995
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-13 16:08:23.018
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-13 16:15:18.680
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-15 14:52:51.627
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-15 14:52:55.213
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-15 14:52:55.230
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-15 14:53:15.270
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-15 14:54:57.264
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 

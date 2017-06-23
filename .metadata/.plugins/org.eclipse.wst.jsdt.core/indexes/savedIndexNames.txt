@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+/Users/Szlangini/Documents/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3699724078.index
+2326711960.index
+2051977882.index
+1530783481.index
+1095222227.index
+3928896295.index
+2239959315.index
