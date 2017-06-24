@@ -1,0 +1,54 @@
+
+package de.tub.as.smm.models;
+
+import java.io.Serializable;
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+
+
+@Entity
+public class Ablesung implements Serializable {
+    private static final long serialVersionUID = 1L;
+ 
+    // Persistent Fields:
+   // @GeneratedValue
+    Long id;
+    private Date ableseDatum;
+    
+    private User user;
+    private Zaehler zaehler;
+ 
+    // Constructors: 
+    public Ablesung(User ablesenderUser) {
+        this.ablesenderUser = ablesenderUser;
+        this.ableseDatum = new Date(System.currentTimeMillis());
+    }
+	
+    @Id
+    public Long getId(){return this.id;}
+    
+	@Column(name="ableseDatum")
+	public Date getAbleseDatum(){return this.ableseDatum;}
+    
+	
+	@ManyToOne()
+	@JoinColumn(name="USER_ID")
+	public User getUser(){ return this.ablesenderUser;}
+	
+	// PROBLEM
+	@ManyToOne()
+	@JoinColumn(name="ZAEHLER_ID")
+	public Zaehler getZaehler(){return this.zaehler;}
+	
+    // String Representation:
+    @Override
+    public String toString() {
+        return this.ablesenderUser.getName() + " (abgelesen am " + this.ableseDatum + ")";
+    }
+}

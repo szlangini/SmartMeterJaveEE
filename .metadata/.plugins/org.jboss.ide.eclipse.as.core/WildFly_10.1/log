@@ -1,0 +1,710 @@
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 14:27:12.556
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 14:27:15.307
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 14:27:15.320
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 14:27:35.350
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 14:27:44.458
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 14:27:45.664
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 14:27:48.232
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 14:27:48.257
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 14:28:08.293
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 14:28:54.729
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 14:29:14.760
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 14:31:28.485
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 14:31:30.797
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 14:31:33.449
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 14:31:33.463
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 14:31:53.493
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 14:35:35.514
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 14:57:27.097
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 14:57:29.846
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 14:57:29.860
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 14:57:49.892
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 14:58:02.575
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 14:58:06.941
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 14:58:09.584
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 14:58:09.601
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 14:58:29.630
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:06:24.364
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:06:25.365
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:06:44.392
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:06:45.404
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:07:58.322
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:08:18.358
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:09:43.787
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:09:52.841
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 15:09:57.431
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 15:10:00.678
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 15:10:03.321
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:10:03.336
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:10:03.811
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:10:12.875
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:10:23.359
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:11:30.524
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 15:11:36.666
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 15:11:38.385
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 15:11:41.027
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:11:41.046
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:11:50.548
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:12:01.074
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 15:12:17.071
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 15:14:34.702
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 15:14:37.351
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:14:37.366
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 15:14:55.162
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:14:57.399
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 15:15:19.608
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 15:15:22.346
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:15:22.362
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 15:15:31.318
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:15:42.396
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 15:16:03.693
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 15:16:06.323
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:16:06.340
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 15:16:18.639
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:16:26.376
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 15:17:00.908
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 15:17:03.538
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:17:03.554
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:17:23.587
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 15:17:58.444
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 15:20:57.801
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 15:21:00.550
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:21:00.566
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:21:20.599
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:24:47.205
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:24:55.896
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:25:07.242
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:25:15.934
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:26:06.640
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:26:26.682
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:26:57.925
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:27:17.962
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:28:40.251
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:28:42.958
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:29:00.289
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:29:02.995
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:29:15.889
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:29:35.931
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:29:55.050
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:30:15.099
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:30:33.594
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:30:53.638
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:31:05.283
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:31:25.324
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:32:34.263
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:32:54.308
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:33:29.715
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:33:49.763
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:36:19.668
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:36:39.721
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:38:52.310
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:39:12.354
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:40:44.942
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:41:04.979
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:41:30.984
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:41:51.020
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 15:43:29.892
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 15:43:31.593
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 15:43:34.251
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:43:34.261
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:43:54.296
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 15:44:19.043
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 15:44:34.905
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 15:44:37.656
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:44:37.669
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:44:57.703
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 15:45:22.822
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 15:46:31.747
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 15:46:34.397
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:46:34.412
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:46:54.452
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:48:09.124
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:48:12.726
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:48:29.153
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:48:32.762
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:50:06.659
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:50:26.686
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:50:42.202
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:50:42.338
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:51:02.250
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:51:02.376
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:52:53.048
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:53:13.087
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:56:12.930
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:56:15.255
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:56:32.968
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:56:35.292
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:57:25.776
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:57:45.815
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 15:59:36.380
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 15:59:56.427
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:17:09.171
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:17:29.203
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:18:49.448
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:19:09.502
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:19:44.879
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:20:04.914
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:20:32.529
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:20:52.568
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:21:38.485
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:21:58.519
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:23:11.003
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:23:30.896
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:23:31.045
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:23:50.946
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:26:58.033
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:27:00.860
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:27:18.072
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:27:20.897
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:29:51.017
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:30:11.059
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:30:57.222
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:31:10.756
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:31:17.246
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:31:30.783
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:32:04.408
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:32:24.447
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 16:33:22.891
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 16:33:36.258
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 16:33:38.900
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 16:34:53.172
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 16:34:56.808
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 16:34:59.455
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:35:08.375
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:35:28.405
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:36:36.594
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:36:56.636
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 16:37:23.189
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 16:37:28.720
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 16:37:31.464
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:37:42.666
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:38:02.705
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:39:39.365
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 16:39:42.765
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 16:39:52.073
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 16:39:54.718
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:39:59.395
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:40:08.336
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:40:28.380
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2017-06-24 16:41:21.930
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 16:41:22.076
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 16:41:27.322
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 16:41:30.080
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:41:46.683
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:42:06.725
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:42:26.973
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:42:47.012
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:44:06.532
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:44:26.595
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 16:44:39.479
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 16:44:48.016
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 16:44:50.763
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:45:38.158
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:45:58.207
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 16:51:45.528
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 16:51:48.498
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:51:48.535
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:52:08.584
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:54:30.313
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:54:50.360
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 16:57:06.913
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 16:57:26.956
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 17:00:07.134
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 17:00:27.176
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 17:14:02.738
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 17:26:49.290
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 17:26:52.264
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 17:26:52.275
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 17:27:04.164
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 17:27:08.484
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 17:27:12.310
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 17:27:20.345
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 17:27:23.034
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 17:27:24.192
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 17:27:43.846
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 17:28:03.897
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-06-24 17:29:26.351
+!MESSAGE Server processes have terminated prematurely. Please check your server logs for more details. 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-06-24 17:30:05.390
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-06-24 17:30:08.053
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 17:30:08.067
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 17:30:28.111
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 17:49:23.093
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 17:49:43.121
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 17:50:45.770
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 17:51:05.810
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-06-24 17:51:25.093
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-06-24 17:51:45.124
+!MESSAGE Module SmartMeterManagementWeb on WildFly 10.1 still not ready to be shown in browser. Aborting delay.

@@ -1,0 +1,9 @@
+package de.tub.as.smm;
+
+import javax.servlet.http.HttpServlet;
+
+public class IndexServlet extends HttpServlet {
+	private static final Long serialVersionId = 1L;
+	
+	
+}
