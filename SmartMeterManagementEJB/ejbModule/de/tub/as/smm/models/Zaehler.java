@@ -27,14 +27,14 @@ public class Zaehler implements Serializable {
         this.id = (long) (100 + (Math.random() * 1000000));
     }
     
-    public Zaehler(String name, Float maxAmpere, Float maxVolt){
+    public Zaehler(String name, Float maxAmpere){
         this.name = name;
         this.maxAmpere = maxAmpere;
         this.id = (long) (100 + (Math.random() * 1000000));
 
     }
     
-    public Zaehler(String name,List<Ablesung> ablesungen, Float maxAmpere, Float maxVolt){
+    public Zaehler(String name,List<Ablesung> ablesungen, Float maxAmpere){
         this.name = name;
         this.ablesungen = ablesungen;
         this.maxAmpere = maxAmpere;

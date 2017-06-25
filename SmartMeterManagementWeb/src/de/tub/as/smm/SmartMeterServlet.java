@@ -9,7 +9,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import de.tub.as.smm.dao.UserDao;
 import de.tub.as.smm.dao.ZaehlerDao;
+import de.tub.as.smm.models.User;
 import de.tub.as.smm.models.Zaehler;
 
 /**
@@ -23,6 +25,9 @@ public class SmartMeterServlet extends HttpServlet {
 	// Injected DAO EJB:
     @EJB
     ZaehlerDao zaehlerDao;
+    
+    @EJB
+    UserDao userDao;
  
     @Override
     protected void doGet(
@@ -32,6 +37,8 @@ public class SmartMeterServlet extends HttpServlet {
         // Display the list of guests:
         request.setAttribute("smartmeter", zaehlerDao.getAllZaehler());
         request.getRequestDispatcher("/smartmeter.jsp").forward(request, response);
+        
+        
     }
  
     @Override
@@ -42,11 +49,14 @@ public class SmartMeterServlet extends HttpServlet {
         // Handle a new guest:
         String name = request.getParameter("name");
         float maxAmpere = Float.valueOf(request.getParameter("maxAmpere"));
-        float maxVolt = Float.valueOf(request.getParameter("maxVolt"));
 
-        if (name != null && maxAmpere != 0.0f && maxVolt != 0.0f)
-        	System.out.println(name);
-            zaehlerDao.persist(new Zaehler(name, maxAmpere, maxVolt));
+        if (name != null && maxAmpere != 0.0f)
+            zaehlerDao.persist(new Zaehler(name, maxAmpere));
+        	System.out.println("UserDao.currentUser: " + UserDao.currentUser);
+        	System.out.println("request.getAttribute(currentUser) " + request.getAttribute("currentUser"));
+        	UserDao.currentUser = (User) request.getAttribute("currentUser");
+        	System.out.println("NEW : UserDao.currentUser: " + UserDao.currentUser);
+
  
         // Display the list of guests:
         doGet(request, response);

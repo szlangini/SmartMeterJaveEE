@@ -15,36 +15,18 @@
 		Name: <input type="text" name="name" /> <input type="submit"
 			value="Add" />
 	</form>
-	<hr>
-	<ol>
-		<%
-			@SuppressWarnings("unchecked")
-			List<User> users = (List<User>) request.getAttribute("user");
-			if (users != null) {
-				for (User user : users) {
-		%>
-		<li><%=user%></li>
-		<%
+	<%
+			User user = (User) request.getAttribute("newUser");
+			if (user != null){
+			
+				%>
+				
+				<p>Logged In as: <%=user%> <a href="smartmeter.jsp">Proceed</a></p>
+				<%
+				
+				
 			}
-		
-			}
-		%>
-	</ol>
-		<% if (users != null) {
-			
-			%> 
-			
-		<a href="smartmeter.jsp">Log In</a>
-			
-			<%
-			
-		}
-			
-			
-			
-		%>
-	<hr>
-	
+	%>
 	
 
 </body>

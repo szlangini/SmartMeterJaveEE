@@ -25,6 +25,12 @@ public class Ablesung implements Serializable {
     private Zaehler zaehler;
  
     // Constructors: 
+    public Ablesung(){
+    	
+     this.ableseDatum = new Date(System.currentTimeMillis());
+
+    }
+    
     public Ablesung(User ablesenderUser) {
         this.user = ablesenderUser;
         this.ableseDatum = new Date(System.currentTimeMillis());

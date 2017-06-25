@@ -8,4 +8,7 @@
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="javax.persistence.Basic"/>
 <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="de.tub.as.smm.dao.UserDao"/>
+<fullyQualifiedTypeName name="javax.ejb.Stateful"/>
+<fullyQualifiedTypeName name="javax.ejb.Stateless"/>
 </qualifiedTypeNameHistroy>

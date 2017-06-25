@@ -1,31 +1,47 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 	
-<%@page import="java.util.*,de.tub.as.smm.models.Zaehler"%>	
+<%@page import="java.util.*,de.tub.as.smm.models.Zaehler"%>
+<%@page import="java.util.*,de.tub.as.smm.models.User"%>
+<%@page import="java.util.*,de.tub.as.smm.dao.UserDao"%>	
+	
+	
 	
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Smartmeter Management</title>
+<style>
+
+      .controlDiv { display: inline-block; }
+
+</style>
+ 
 </head>
 
 <body>
-	<p><% maxAmpere %></p>
+	<div class="controlDiv">
+	<a href="user.jsp"><button>LogIn</button></a>
+	
 
-	<p><% currentAmpere %></p>
-	<p><% currentVolt %></p>
+
 	
 	
+	<% if (UserDao.currentUser != null) {	%>
 	
+	<a href="smartmeter.jsp" id="logOut"><button>LogOut</button></a>
+	</div>
+	
+	<% request.setAttribute("currentUser", UserDao.currentUser); %>
+
 
 	<form method="POST" action="smartmeter">
 		Name: <input type="text" name="name" />
 		Maximum Ampere: <input type="text" name="maxAmpere"/>
-		Maximum Volt: <input type="text" name="maxVolt"/>
 		
 		 <input type="submit"
-			value="Add Smartmeter" />
+		value="Add Smartmeter" />
 	</form>
 	<hr>
 	<ol>
@@ -44,7 +60,15 @@
 	</ol>
 	<hr>
 	
-	
+	<% } %>
+<script>
+document.getElementById("logOut").onclick = function() {myFunction()};
+
+function myFunction() {
+    <% UserDao.currentUser = null; %>
+}
+</script>
+
 
 </body>
 </html>

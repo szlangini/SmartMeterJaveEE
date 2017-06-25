@@ -2,6 +2,7 @@ package de.tub.as.smm.dao;
 
 import java.util.List;
 
+import javax.ejb.Stateful;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
@@ -14,6 +15,9 @@ import de.tub.as.smm.models.User;
  */
 @Stateless
 public class UserDao {
+
+	//Wichtig für login
+	public static User currentUser;
 
 	// Injected database connection:
     @PersistenceContext private EntityManager em;
