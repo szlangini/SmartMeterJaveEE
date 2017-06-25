@@ -11,15 +11,13 @@ import javax.servlet.http.HttpServletResponse;
 
 import de.tub.as.smm.dao.AblesungDao;
 import de.tub.as.smm.dao.UserDao;
-import de.tub.as.smm.dao.ZaehlerDao;
 import de.tub.as.smm.models.Ablesung;
-import de.tub.as.smm.models.Zaehler;
 
 /**
  * Servlet implementation class UserServlet
  */
 
-@WebServlet(name = "/ablesung", urlPatterns = { "/ablesung" })
+@WebServlet("/ablesung")
 public class AblesungServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	
@@ -39,7 +37,7 @@ public class AblesungServlet extends HttpServlet {
         // Display the list of guests:
         request.setAttribute("ablesungen", ablesungDao.getAllAblesungen());
         request.getRequestDispatcher("/ablesung.jsp").forward(request, response);
-        System.out.println("something");
+       // System.out.println("something");
         
     }
  
@@ -47,19 +45,9 @@ public class AblesungServlet extends HttpServlet {
     protected void doPost(
         HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
- 
-    	String id = request.getParameter("id");
-    	System.out.println(id);
 
     	
-    	
-        // Handle a new guest:
-
-
-        // CurrentSmartMeter über dao
-    	float kWh = Float.valueOf(request.getParameter("kWh"));
-
-            ablesungDao.persist(new Ablesung());
+    	ablesungDao.persist(new Ablesung());
         
         // Display the list of guests:
         doGet(request, response);

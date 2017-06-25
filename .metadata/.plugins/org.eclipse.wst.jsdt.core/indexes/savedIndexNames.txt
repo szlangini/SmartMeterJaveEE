@@ -1,9 +1,6 @@
 INDEX VERSION 1.3+/Users/Szlangini/Documents/workspaceAWSHA/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-750539627.index
 3699724078.index
 3408804869.index
-1540013156.index
 3408804869.index
-4110569795.index
 2470899775.index
 2281700542.index

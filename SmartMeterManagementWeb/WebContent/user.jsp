@@ -8,6 +8,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>User Management</title>
+    <style>
+    .tag {
+        color:black;
+        font-family: monospace;
+        font-size: 150%;
+    </style>
+
 </head>
 
 <body>
@@ -21,7 +28,7 @@
 			
 				%>
 				
-				<p>Logged In as: <%=user%> <a href="smartmeter.jsp">Proceed</a></p>
+				<p class="tag">Logged In as: <%=user%> <a href="smartmeter.jsp">Proceed</a></p>
 				<%
 				
 				
