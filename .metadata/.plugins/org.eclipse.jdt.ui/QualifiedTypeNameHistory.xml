@@ -11,4 +11,10 @@
 <fullyQualifiedTypeName name="de.tub.as.smm.dao.UserDao"/>
 <fullyQualifiedTypeName name="javax.ejb.Stateful"/>
 <fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+<fullyQualifiedTypeName name="javax.ejb.Remote"/>
+<fullyQualifiedTypeName name="de.tub.as.smm.dao.UserRemote"/>
+<fullyQualifiedTypeName name="helper.CurrentUser"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="de.tub.as.smm.models.CurrentUser"/>
 </qualifiedTypeNameHistroy>

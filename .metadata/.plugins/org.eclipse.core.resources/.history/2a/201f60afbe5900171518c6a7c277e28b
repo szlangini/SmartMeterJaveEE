@@ -1,0 +1,15 @@
+package de.tub.as.smm.models;
+
+import javax.persistence.Entity;
+
+@Entity
+public class CurrentUser {
+
+	//Wichtig für login
+	public static User current;
+	
+	public CurrentUser(){
+	
+	}
+	
+}

@@ -8,6 +8,7 @@ import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
 
 import de.tub.as.smm.models.Ablesung;
+import de.tub.as.smm.models.Zaehler;
 
 /**
  * Session Bean implementation class AblesungDaoEJB
@@ -15,6 +16,8 @@ import de.tub.as.smm.models.Ablesung;
 @Stateless
 public class AblesungDao {
 
+    public static Zaehler currentZaehler;
+    public static String currentZaehlerName;
 	// Injected database connection:
     @PersistenceContext private EntityManager em;
  

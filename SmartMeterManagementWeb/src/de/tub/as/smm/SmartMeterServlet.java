@@ -11,7 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 
 import de.tub.as.smm.dao.UserDao;
 import de.tub.as.smm.dao.ZaehlerDao;
-import de.tub.as.smm.models.User;
 import de.tub.as.smm.models.Zaehler;
 
 /**
@@ -34,10 +33,13 @@ public class SmartMeterServlet extends HttpServlet {
         HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
  
+    	
         // Display the list of guests:
         request.setAttribute("smartmeter", zaehlerDao.getAllZaehler());
         request.getRequestDispatcher("/smartmeter.jsp").forward(request, response);
         
+        
+      
         
     }
  
@@ -52,12 +54,7 @@ public class SmartMeterServlet extends HttpServlet {
 
         if (name != null && maxAmpere != 0.0f)
             zaehlerDao.persist(new Zaehler(name, maxAmpere));
-        	System.out.println("UserDao.currentUser: " + UserDao.currentUser);
-        	System.out.println("request.getAttribute(currentUser) " + request.getAttribute("currentUser"));
-        	UserDao.currentUser = (User) request.getAttribute("currentUser");
-        	System.out.println("NEW : UserDao.currentUser: " + UserDao.currentUser);
-
- 
+        
         // Display the list of guests:
         doGet(request, response);
     }

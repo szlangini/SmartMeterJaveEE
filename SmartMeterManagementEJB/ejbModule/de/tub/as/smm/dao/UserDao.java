@@ -3,7 +3,6 @@ package de.tub.as.smm.dao;
 import java.util.List;
 
 import javax.ejb.Stateful;
-import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
@@ -13,12 +12,12 @@ import de.tub.as.smm.models.User;
 /**
  * Session Bean implementation class UserDaoEJB
  */
-@Stateless
+@Stateful
 public class UserDao {
 
-	//Wichtig für login
-	public static User currentUser;
-
+	// Wichtig für Login
+	public static User current;
+	
 	// Injected database connection:
     @PersistenceContext private EntityManager em;
  
@@ -28,10 +27,12 @@ public class UserDao {
     }
  
     // Retrieves all the users:
+    
     public List<User> getAllUsers() {
         TypedQuery<User> query = em.createQuery(
             "SELECT u FROM User u ORDER BY u.id", User.class);
         return query.getResultList();
     }
+
 
 }

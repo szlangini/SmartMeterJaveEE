@@ -1,0 +1,26 @@
+package de.tub.as.smm.models;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+
+@Entity
+public class CurrentUser {
+
+	//Wichtig für login
+	public static User current;
+	
+	public CurrentUser(){
+	
+	}
+
+	@Column(name="user")
+	public static User getCurrent() {
+		return current;
+	}
+	public static void setCurrent(User current) {
+		CurrentUser.current = current;
+	}
+	
+	
+	
+}

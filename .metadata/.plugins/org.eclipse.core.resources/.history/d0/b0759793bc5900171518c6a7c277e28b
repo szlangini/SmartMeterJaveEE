@@ -1,0 +1,8 @@
+package de.tub.as.smm.models;
+
+public class CurrentUser {
+
+	//Wichtig für login
+	public static User current;
+	
+}

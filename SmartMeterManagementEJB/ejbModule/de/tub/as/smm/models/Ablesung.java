@@ -16,11 +16,13 @@ import javax.persistence.ManyToOne;
 public class Ablesung implements Serializable {
     private static final long serialVersionUID = 1L;
  
+    
     // Persistent Fields:
     @Id @GeneratedValue
     Long id;
     private Date ableseDatum;
     
+    private float kwh;
     private User user;
     private Zaehler zaehler;
  
@@ -28,12 +30,15 @@ public class Ablesung implements Serializable {
     public Ablesung(){
     	
      this.ableseDatum = new Date(System.currentTimeMillis());
+     this.id = (long) (100 + (Math.random() * 1000000));
 
     }
     
     public Ablesung(User ablesenderUser) {
         this.user = ablesenderUser;
         this.ableseDatum = new Date(System.currentTimeMillis());
+        this.id = (long) (100 + (Math.random() * 1000000));
+
     }
 	
     public void setId(Long id) {
@@ -73,4 +78,13 @@ public class Ablesung implements Serializable {
     public String toString() {
         return this.user.getName() + " (abgelesen am " + this.ableseDatum + ")";
     }
+
+    @Column(name="kwh")
+	public float getKwh() {
+		return kwh;
+	}
+
+	public void setKwh(float kwh) {
+		this.kwh = kwh;
+	}
 }

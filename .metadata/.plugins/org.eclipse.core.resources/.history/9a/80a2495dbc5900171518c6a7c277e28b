@@ -1,0 +1,7 @@
+package de.tub.as.smm.models;
+
+public class CurrentUser {
+
+	public static User current;
+	
+}

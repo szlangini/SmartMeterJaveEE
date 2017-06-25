@@ -1,0 +1,10 @@
+package helper;
+
+import de.tub.as.smm.models.User;
+
+public class CurrentUser {
+
+	//Wichtig für login
+	public static User current;
+	
+}

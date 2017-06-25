@@ -1,0 +1,6 @@
+package de.tub.as.smm.dao;
+
+@Remote
+public class UserRemote {
+
+}

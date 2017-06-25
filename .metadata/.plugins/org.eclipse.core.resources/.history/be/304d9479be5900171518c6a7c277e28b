@@ -1,0 +1,6 @@
+package de.tub.as.smm.models;
+
+@Entity
+public class CurrentUser {
+
+}

@@ -3,7 +3,11 @@
 	
 <%@page import="java.util.*,de.tub.as.smm.models.Zaehler"%>
 <%@page import="java.util.*,de.tub.as.smm.models.User"%>
-<%@page import="java.util.*,de.tub.as.smm.dao.UserDao"%>	
+<%@page import="java.util.*,de.tub.as.smm.dao.UserDao"%>
+<%@page import="java.util.*,de.tub.as.smm.dao.AblesungDao"%>
+
+
+
 	
 	
 	
@@ -22,18 +26,16 @@
 
 <body>
 	<div class="controlDiv">
-	<a href="user.jsp"><button>LogIn</button></a>
-	
-
-
-	
-	
-	<% if (UserDao.currentUser != null) {	%>
-	
-	<a href="smartmeter.jsp" id="logOut"><button>LogOut</button></a>
+	<% if (UserDao.current != null ) {
+		%>
+		
+	Eingeloggt als: <%=UserDao.current%>
+		
+		
+	<% } %>
+	<a href="user.jsp" id="logOut"><button>LogOut</button></a>
 	</div>
-	
-	<% request.setAttribute("currentUser", UserDao.currentUser); %>
+
 
 
 	<form method="POST" action="smartmeter">
@@ -51,8 +53,11 @@
 			if (zaehler != null) {
 				for (Zaehler zaehlerObj : zaehler) {
 		%>
-		<li><%=zaehlerObj%> <a href="ablesung.jsp">Ablesen</a></li>
+		<li class="zaehler"><%=zaehlerObj%> 	    <a href=<%= "\"ablesung.jsp?param1=" + zaehlerObj.getName() + "&id="+ zaehlerObj.getId() + "\"" %>>
+Ablesen</a></li>
 		<%
+
+		
 			}
 		
 			}
@@ -60,13 +65,15 @@
 	</ol>
 	<hr>
 	
-	<% } %>
+	
+	
 <script>
 document.getElementById("logOut").onclick = function() {myFunction()};
 
 function myFunction() {
-    <% UserDao.currentUser = null; %>
+    <% UserDao.current = null; %>
 }
+
 </script>
 
 

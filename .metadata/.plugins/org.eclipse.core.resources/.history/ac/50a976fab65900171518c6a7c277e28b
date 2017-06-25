@@ -1,0 +1,16 @@
+package de.tub.as.smm.dao;
+
+import java.util.List;
+
+import javax.ejb.Remote;
+
+import de.tub.as.smm.models.Zaehler;
+
+@Remote
+public interface zaehlerRemote {
+	
+	
+	public void persist(Zaehler zaehler);
+	public List<Zaehler> getAllZaehler()
+
+}
